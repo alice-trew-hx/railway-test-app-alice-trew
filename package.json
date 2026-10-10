@@ -1,0 +1,12 @@
+{
+  "name": "railway-test-app",
+  "version": "1.0.0",
+  "description": "A tiny test app to learn the GitHub -> Railway deploy flow",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
